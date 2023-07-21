@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dktdc91&label=Profile%20views&color=0e75b6&style=flat" alt="Kevin-Arent" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kevin-Arent&theme=onedark" alt="Kevin-Arent" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kevin-Arent&theme=onedark&rank=S,AAA&column=-1" alt="Kevin-Arent" /></a> </p>
 
-- 🔭 I’m currently working on [Plant Stream](https://plantstream3d.com/)
+- 🔭 I’m currently working on <img src="https://scontent-itm1-1.xx.fbcdn.net/v/t39.30808-6/275667669_460457099110152_4135466169489650403_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=8js6KBAYmpwAX91G6hg&_nc_ht=scontent-itm1-1.xx&oh=00_AfD8LEIYPW3uDWMkBcxec106T9V47MeDs7rJxOd2q0210w&oe=64BF85E8" alt="bash" width="20" height="20"/> [Plant Stream](https://plantstream3d.com/)
 
 - 🌱 I’m currently learning **C# and Unity**
 
