@@ -18,5 +18,4 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dktdc91&show_icons=true&locale=en&layout=compact&theme=monokai" alt="dktdc91" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin-Arent&theme=monokai&hide_border=true"></p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://bmc.link/dktdc91"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/dktdc91" />
+<p><a href="https://www.buymeacoffee.com/dktdc91"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dktdc91" /></a></p><br><br>
