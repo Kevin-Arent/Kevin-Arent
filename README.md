@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">I like coding</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dktdc91&label=Profile%20views&color=0e75b6&style=flat" alt="Kevin-Arent" /> </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dktdc91&label=Profile%20views&color=0e75b6&style=flat" alt="Kevin-Arent" /> 
+<a href="https://wakatime.com/@ac344027-0bc2-4253-b79f-fc4d5109ca1a"><img src="https://wakatime.com/badge/user/ac344027-0bc2-4253-b79f-fc4d5109ca1a.svg" alt="Total time coded since Aug 18 2023" /></a></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy2-git-main-kevin-arent.vercel.app/?username=Kevin-Arent&theme=monokai&row=1" alt="Kevin-Arent" /></a> </p>
 
@@ -18,6 +18,7 @@
 <p align="center"><img src="https://kevin-readme-stats.vercel.app/api/top-langs?username=Kevin-Arent&show_icons=true&locale=en&layout=compact&theme=swift&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=10&hide_progress=true" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin-Arent&theme=swift&hide_border=true"></p>
 <p align="center"><img src="https://kevin-readme-stats.vercel.app/api/?username=Kevin-Arent&show_icons=true&locale=en&layout=compact&theme=swift&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&hide=prs,issues,contribs&rank_icon=github&include_all_commits=true" /></p>
+
 
 
 <h3 align="left">Support:</h3>
