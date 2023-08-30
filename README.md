@@ -18,6 +18,5 @@
 <p align="center"><img src="https://kevin-readme-stats.vercel.app/api/?username=Kevin-Arent&show_icons=true&locale=en&layout=compact&theme=swift&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&hide=prs,issues,contribs&rank_icon=github&include_all_commits=true" /></p>
 
 
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dktdc91"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dktdc91" /></a></p><br><br>
